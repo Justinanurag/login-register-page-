@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6814a8f1e7ed7206b17ccb9e"
+  },
+  "fullName": "Anurag Tiwari",
+  "emailAddress": "justinanurag0.2@gmail.com",
+  "phoneNumber": "06200950087",
+  "password": "$2b$10$l.5LG3JLeWfMC/O484PuKe0V.9SqvR4GyLKqPyIEED9rxPZjUZQMO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6814ad586241584bfe6c7372"
+  },
+  "fullName": "Ankur Singh",
+  "emailAddress": "xyz@gmail.com",
+  "phoneNumber": "08271969489",
+  "password": "$2b$10$LCUdKNEwBfOiqDRacpdXueEDddQwTOBtoMdiyWY52gjPjPQ9QwTyK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6814b0ee57112c74655e59c7"
+  },
+  "fullName": "YATHARTH SAHU",
+  "emailAddress": "deokkumar.sahu001@gmail.com",
+  "phoneNumber": "09425590774",
+  "password": "$2b$10$IOGj4q1vj9ftGlKFrARpuuey56d3LFPK7IySfj/rVw4IQ6dLTuiE2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6814b22157112c74655e59ce"
+  },
+  "fullName": "Ankit",
+  "emailAddress": "ankit@gmail.com",
+  "phoneNumber": "06200950087",
+  "password": "$2b$10$FX744iRdHKnMgRjTqWtjKOjwRi4Sgy.Lh9QnsTZUtA0bZNDTBqiU6",
+  "__v": 0
+}]
